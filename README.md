@@ -1,5 +1,6 @@
-03
+GitHub Use
 ==
 
-miao shu03
-heihei
+描述GitHub Use method
+
+enjoy it yourself
