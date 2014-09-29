@@ -1,1 +1,3 @@
 2013.12.5 can't surport chinese!
+
+2014.9.29 setup on windows8.1 again and check out the first time
